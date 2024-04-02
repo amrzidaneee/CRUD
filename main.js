@@ -1,17 +1,4 @@
 
-//     var x = document.getElementById('fn');
-//     var z = document.getElementById('sn');
-
-
-// function sayHello(){
-    
-//     console.log(x.value , z.value );
-//     }
-// var cart="";
-// for( var i=1900 ; i<2023 ; i++ ){
-//     cart = cart + '<option>'+i+'</option>';
-// };
-// document.getElementById("ddd").innerHTML= cart;
  
 var proudactName = document.getElementById("pn");
 var proudactPrice = document.getElementById("pp");
